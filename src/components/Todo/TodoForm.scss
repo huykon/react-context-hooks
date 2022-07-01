@@ -19,7 +19,8 @@
     }
   }
 
-  input:focus, button:focus {
+  input:focus,
+  button:focus {
     outline: none;
   }
 
@@ -32,8 +33,8 @@
     border-top-right-radius: 6px;
     border-bottom-right-radius: 6px;
     color: #fff;
-    background: #307BFF;
-    border-color: #307BFF;
+    background: #307bff;
+    border-color: #307bff;
     cursor: pointer;
     font-size: 16px;
 
